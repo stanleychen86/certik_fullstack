@@ -11,10 +11,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### How the implementation looks 
+
 This is an implementation of the full-stack(deprecated) version of the assignment.
 This is how it looks (below).
 
-
-
-
-![image] (Screen Shot 2021-05-26 at 1.15.49 AM.png)
+https://drive.google.com/file/d/1ZGmslQpKknRk1x2JVWilYjGKhBujcjmF/view?usp=sharing
