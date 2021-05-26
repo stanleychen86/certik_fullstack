@@ -17,4 +17,4 @@ This is how it looks (below).
 
 
 
-![image] (https://drive.google.com/file/d/1ZGmslQpKknRk1x2JVWilYjGKhBujcjmF/view?usp=sharing)
+![image] (Screen Shot 2021-05-26 at 1.15.49 AM.png)
